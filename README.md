@@ -16,7 +16,7 @@
 ## Introduction
 
 This repository contains the Jupyter Notebook for the Application Assignment 17.1. This takes a sample jupyter notebook to complete the exercise to analyse UCI Bank Marketing Data Set in [bank-additional-full.csv](https://github.com/kondalraop/data/bank-additional-full.csv) file in the data folder of this repository to build a machine learning application that uses classifications to evaluate customers that will accept the Long-term deposit application using features like job, marital status, education, housing and personal loan.
-
+["**Introduction**"](./data/bank-additional-full.csv)
 The goal of this project is to compare the performance of the following classifiers namely 
 * K Nearest Neighbor
 * Logistic Regression

@@ -150,7 +150,7 @@ An interesting observation emerged from the model comparison: the Logistic Regre
 
 The main question that I have is the imbalanced dataset which is heavily weighted towards the unsuccessful marketing campaigns. If the model is used to determine features that are making the marketing campaign unsuccessful, then the models above could be useful.
 
-
+<img src='images/Bar-Plot-Deposit-Contact-Subscribed-Yes.png' width='60%' />
 Alternatively, the model can be used by the financial institution to understand customer profile that they need to target, for example, there was a high score amongst the "Yes" for customers contacted via Cellular so maybe the Bank can adopt modern features like Text Messages, Social Media platforms (i.e. Facebook, Instagram, Twitter, Tik Tok etc) for marketing campaigns
 
 ## License

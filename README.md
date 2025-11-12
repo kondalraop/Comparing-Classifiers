@@ -10,7 +10,6 @@
  * [Baseline Model Comparison](#Baseline-Model-Comparison)
  * [Model Comparisons](#Model-Comparisons)
  * [Improving the Model](#Improving-the-Model)
- * [Findings](#Findings)
  * [Next steps and Recommendations](#Next-steps-and-Recommendations)
 
  

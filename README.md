@@ -11,7 +11,7 @@
  * [Model Comparisons](#Model-Comparisons)
  * [Improving the Model](#Improving-the-Model)
  * [Next steps and Recommendations](#Next-steps-and-Recommendations)
-
+ * [License](#License)
  
 ## Introduction
 

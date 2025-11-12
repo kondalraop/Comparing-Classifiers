@@ -64,6 +64,7 @@ In telephone marketing campaign, clients were offered an appealing long-term dep
 The outcome of each contact was recorded as either a success or a failure, representing the target variable. Across the entire dataset, there were 6,499 successful subscriptions, corresponding to a success rate of approximately 8%.
 
 Displayed below are some charts providing visualization on some of the observations of the dataset.
+<img src='images/Bar-Plot-Term-Desposit-by-Education.png' width='60%' />
 
 
 The first thing that was apparent from the provided data was that the low success rate of the marketing campaign in getting customers to sign up for the long term deposit product regardless of the features recorded for the customers (i.e., Education, Marital Status, job, contact etc.).

@@ -72,7 +72,9 @@ The first thing that was apparent from the provided data was that the low succes
 The one slight exception are customers with housing loan types where 52.4% signed up for the long term deposit product vs. 45.2% who did not.
 
 An Alternative view on the data is to review number of succesful campaigns to see how features like education and job had a positive impact on the number of successful campaigns. See plots below:
+<img src='images/Bar-Plot-deposit-Education-Subscribed-Yes.png' width='60%' />
 
+<img src='images/Bar-Plot-Deposit-Job-Subscribed-Yes.png' width='60%' />
 Reviewing the plots where the customer signed up for the Bank Product/Marketing campaign was successful, you can observe the following:
 
 - On Education, university degree folks said yes to the bank loan product
